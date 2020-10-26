@@ -1,0 +1,12 @@
+[05-Aug-2020 12:55:51 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'imagick.so' (tried: /opt/cpanel/ea-php72/root/usr/lib64/php/modules/imagick.so (libMagickCore-6.Q16.so.6: failed to map segment from shared object: Cannot allocate memory), /opt/cpanel/ea-php72/root/usr/lib64/php/modules/imagick.so.so (/opt/cpanel/ea-php72/root/usr/lib64/php/modules/imagick.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[18-Aug-2020 14:44:49 Asia/Tbilisi] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 24576 bytes) in /home/autobus1/laravel/vendor/intervention/image/src/Intervention/Image/Gd/Decoder.php on line 138
+[18-Aug-2020 14:45:56 Asia/Tbilisi] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 24576 bytes) in /home/autobus1/laravel/vendor/intervention/image/src/Intervention/Image/Gd/Decoder.php on line 138
+[18-Aug-2020 14:46:16 Asia/Tbilisi] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 24576 bytes) in /home/autobus1/laravel/vendor/intervention/image/src/Intervention/Image/Gd/Decoder.php on line 138
+[07-Sep-2020 12:17:17 Asia/Tbilisi] PHP Fatal error:  Uncaught ErrorException: Undefined variable: ServicesF in /home/autobus1/laravel/storage/framework/views/5f10f78423ba5cf46bfb1bd5424448f0eb0097c9.php:105
+Stack trace:
+#0 /home/autobus1/laravel/storage/framework/views/5f10f78423ba5cf46bfb1bd5424448f0eb0097c9.php(105): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home/autobus1/...', 105, Array)
+#1 /home/autobus1/laravel/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home/autobus1/...')
+#2 /home/autobus1/laravel/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\Engines\PhpEngine->evaluatePath('/home/autobus1/...', Array)
+#3 /home/autobus1/laravel/vendor/laravel/framework/src/Illuminate/View/View.php(142): Illuminate\View\Engines\CompilerEngine->get('/home/autobus1/...', Array)
+#4 /home/autobus1/laravel/vendor/laravel/framework/src/Illuminate/View/View.php(125): Illuminate\View\View->getContents()
+#5 /home/autobus1/laravel/vendor/laravel/frame in /home/autobus1/laravel/storage/framework/views/5f10f78423ba5cf46bfb1bd5424448f0eb0097c9.php on line 105

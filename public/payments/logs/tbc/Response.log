@@ -1,0 +1,601 @@
+[17-August-2020 08:41:46 UTC] Confirm Create Transaction:  OrderID: 6 | Array
+(
+    [error] => unregistered merchant. IP
+)
+
+[17-August-2020 08:41:50 UTC] Confirm Create Transaction:  OrderID: 7 | Array
+(
+    [error] => unregistered merchant. IP
+)
+
+[18-August-2020 10:36:39 UTC] Confirm Create Transaction:  OrderID: 8 | Array
+(
+    [error] => unregistered merchant. IP
+)
+
+[19-August-2020 09:46:14 UTC] Confirm Create Transaction:  OrderID: 9 | Array
+(
+    [error] => unregistered merchant. IP
+)
+
+[25-August-2020 11:13:35 UTC] Confirm Create Transaction:  OrderID: 10 | Array
+(
+    [error] => unregistered merchant. IP
+)
+
+[31-August-2020 07:30:01 UTC] Confirm Create Transaction:  OrderID: 11 | Array
+(
+    [error] => unregistered merchant. IP
+)
+
+[1-September-2020 10:39:38 UTC] Confirm Create Transaction:  OrderID: 12 | Array
+(
+    [TRANSACTION_ID] => 8WQB3kfTSxX30TKMYguZP4211SE=
+)
+
+[1-September-2020 10:54:20 UTC] Confirm Create Transaction:  OrderID: 13 | Array
+(
+    [TRANSACTION_ID] => sQLSJWjfmtxvsFpyq1zVCHNW1WY=
+)
+
+[1-September-2020 10:55:20 UTC] Confirm Create Transaction:  OrderID: 14 | Array
+(
+    [TRANSACTION_ID] => D1PtPTI0IMqFqqLdCCkWRaqy76A=
+)
+
+[1-September-2020 10:56:51 UTC] Confirm Create Transaction:  OrderID: 15 | Array
+(
+    [TRANSACTION_ID] => EQw0bnKr6neLTdCLWBzkr2VO83c=
+)
+
+[1-September-2020 10:57:04 UTC] Confirm Create Transaction:  OrderID: 16 | Array
+(
+    [TRANSACTION_ID] => RWpreh1LMkKJci6hebt3dfhcSYg=
+)
+
+[1-September-2020 10:58:57 UTC] Confirm Create Transaction:  OrderID: 17 | Array
+(
+    [TRANSACTION_ID] => ldzLePIAauS4TTDd9tLTBzVQc48=
+)
+
+[1-September-2020 11:06:57 UTC] Check Transaction:  OrderID: 17 | Array
+(
+    [RESULT] => OK
+    [RESULT_CODE] => 000
+    [3DSECURE] => AUTHENTICATED
+    [RRN] => 024511166481
+    [APPROVAL_CODE] => 531757
+    [CARD_NUMBER] => 5***********8447
+)
+
+[1-September-2020 11:06:58 UTC] DMS Confirm:  OrderID: 17 | Array
+(
+    [RESULT] => OK
+    [RESULT_CODE] => 000
+    [RRN] => 024511166481
+    [APPROVAL_CODE] => 531757
+    [CARD_NUMBER] => 5***********8447
+)
+
+[1-September-2020 11:32:52 UTC] Confirm Create Transaction:  OrderID: 18 | Array
+(
+    [TRANSACTION_ID] => iNZLUg0BtxPnwMyXFSGI4iAoaYo=
+)
+
+[1-September-2020 11:33:49 UTC] Check Transaction:  OrderID: 18 | Array
+(
+    [RESULT] => OK
+    [RESULT_CODE] => 000
+    [3DSECURE] => ATTEMPTED
+    [RRN] => 024511200475
+    [APPROVAL_CODE] => 925822
+    [CARD_NUMBER] => 4***********2882
+)
+
+[1-September-2020 11:33:49 UTC] DMS Confirm:  OrderID: 18 | Array
+(
+    [RESULT] => OK
+    [RESULT_CODE] => 000
+    [RRN] => 024511200475
+    [APPROVAL_CODE] => 925822
+    [CARD_NUMBER] => 4***********2882
+)
+
+[1-September-2020 11:37:26 UTC] Confirm Create Transaction:  OrderID: 19 | Array
+(
+    [TRANSACTION_ID] => mMZn0PbRYAL9ksZ4gUAeUo06KRY=
+)
+
+[1-September-2020 11:37:46 UTC] Check Transaction:  OrderID: 19 | Array
+(
+    [RESULT] => OK
+    [RESULT_CODE] => 000
+    [3DSECURE] => ATTEMPTED
+    [RRN] => 024511205376
+    [APPROVAL_CODE] => 552899
+    [CARD_NUMBER] => 4***********2882
+)
+
+[1-September-2020 11:37:46 UTC] DMS Confirm:  OrderID: 19 | Array
+(
+    [RESULT] => OK
+    [RESULT_CODE] => 000
+    [RRN] => 024511205376
+    [APPROVAL_CODE] => 552899
+    [CARD_NUMBER] => 4***********2882
+)
+
+[1-September-2020 11:44:16 UTC] Confirm Create Transaction:  OrderID: 20 | Array
+(
+    [TRANSACTION_ID] => 5s5hZaB51gl1gGOT3TPe5w9HbqQ=
+)
+
+[1-September-2020 11:44:35 UTC] Check Transaction:  OrderID: 20 | Array
+(
+    [RESULT] => OK
+    [RESULT_CODE] => 000
+    [3DSECURE] => ATTEMPTED
+    [RRN] => 024511213942
+    [APPROVAL_CODE] => 355725
+    [CARD_NUMBER] => 4***********2882
+)
+
+[1-September-2020 11:44:35 UTC] DMS Confirm:  OrderID: 20 | Array
+(
+    [RESULT] => OK
+    [RESULT_CODE] => 000
+    [RRN] => 024511213942
+    [APPROVAL_CODE] => 355725
+    [CARD_NUMBER] => 4***********2882
+)
+
+[1-September-2020 11:52:00 UTC] Confirm Create Transaction:  OrderID: 21 | Array
+(
+    [TRANSACTION_ID] => 9xXrfI6eWUDGlzsNFwwajgTyhn4=
+)
+
+[1-September-2020 11:52:19 UTC] Check Transaction:  OrderID: 21 | Array
+(
+    [RESULT] => OK
+    [RESULT_CODE] => 000
+    [3DSECURE] => ATTEMPTED
+    [RRN] => 024511223465
+    [APPROVAL_CODE] => 392564
+    [CARD_NUMBER] => 4***********2882
+)
+
+[1-September-2020 11:52:20 UTC] DMS Confirm:  OrderID: 21 | Array
+(
+    [RESULT] => OK
+    [RESULT_CODE] => 000
+    [RRN] => 024511223465
+    [APPROVAL_CODE] => 392564
+    [CARD_NUMBER] => 4***********2882
+)
+
+[1-September-2020 11:55:46 UTC] Confirm Create Transaction:  OrderID: 22 | Array
+(
+    [TRANSACTION_ID] => TRLmJkLw0QfR94G7lOMpqSzOmYE=
+)
+
+[1-September-2020 11:58:24 UTC] Confirm Create Transaction:  OrderID: 23 | Array
+(
+    [TRANSACTION_ID] => vnS292SSi6jmOUroMej21f5Qs1o=
+)
+
+[1-September-2020 11:58:40 UTC] Check Transaction:  OrderID: 23 | Array
+(
+    [RESULT] => OK
+    [RESULT_CODE] => 000
+    [3DSECURE] => ATTEMPTED
+    [RRN] => 024511231236
+    [APPROVAL_CODE] => 365733
+    [CARD_NUMBER] => 4***********2882
+)
+
+[1-September-2020 11:58:40 UTC] DMS Confirm:  OrderID: 23 | Array
+(
+    [RESULT] => OK
+    [RESULT_CODE] => 000
+    [RRN] => 024511231236
+    [APPROVAL_CODE] => 365733
+    [CARD_NUMBER] => 4***********2882
+)
+
+[1-September-2020 12:05:36 UTC] Confirm Create Transaction:  OrderID: 24 | Array
+(
+    [TRANSACTION_ID] => evHHwkxCMcSVOgQ4ALOVSBKc8rU=
+)
+
+[1-September-2020 12:06:45 UTC] Check Transaction:  OrderID: 24 | Array
+(
+    [RESULT] => FAILED
+    [RESULT_CODE] => 116
+    [3DSECURE] => AUTHENTICATED
+    [RRN] => 024512241172
+    [CARD_NUMBER] => 5***********4405
+)
+
+[1-September-2020 12:07:58 UTC] Confirm Create Transaction:  OrderID: 25 | Array
+(
+    [TRANSACTION_ID] => ZDlPSv4PSEHDTAvSb6cildE4KXw=
+)
+
+[1-September-2020 12:08:44 UTC] Check Transaction:  OrderID: 25 | Array
+(
+    [RESULT] => FAILED
+    [RESULT_CODE] => 116
+    [3DSECURE] => AUTHENTICATED
+    [RRN] => 024512243637
+    [CARD_NUMBER] => 5***********4405
+)
+
+[1-September-2020 12:15:03 UTC] Confirm Create Transaction:  OrderID: 26 | Array
+(
+    [TRANSACTION_ID] => u5nkXp4xsTPvC6HE6VEBAAd5ypU=
+)
+
+[1-September-2020 12:15:04 UTC] Confirm Create Transaction:  OrderID: 27 | Array
+(
+    [TRANSACTION_ID] => n7MaxZcMtmtVIZZXdbcjJ9IPuhI=
+)
+
+[1-September-2020 12:16:10 UTC] Check Transaction:  OrderID: 27 | Array
+(
+    [RESULT] => FAILED
+    [RESULT_CODE] => 116
+    [3DSECURE] => AUTHENTICATED
+    [RRN] => 024512252866
+    [CARD_NUMBER] => 5***********4405
+)
+
+[1-September-2020 12:33:14 UTC] Confirm Create Transaction:  OrderID: 28 | Array
+(
+    [TRANSACTION_ID] => 2Pcd15y26gxeiPayhkQkPvPojpI=
+)
+
+[1-September-2020 12:34:23 UTC] Check Transaction:  OrderID: 28 | Array
+(
+    [RESULT] => OK
+    [RESULT_CODE] => 000
+    [3DSECURE] => AUTHENTICATED
+    [RRN] => 024512275405
+    [APPROVAL_CODE] => 148746
+    [CARD_NUMBER] => 5***********7485
+)
+
+[1-September-2020 12:34:24 UTC] DMS Confirm:  OrderID: 28 | Array
+(
+    [RESULT] => OK
+    [RESULT_CODE] => 000
+    [RRN] => 024512275405
+    [APPROVAL_CODE] => 148746
+    [CARD_NUMBER] => 5***********7485
+)
+
+[1-September-2020 12:39:35 UTC] Confirm Create Transaction:  OrderID: 29 | Array
+(
+    [TRANSACTION_ID] => 9J0k4seqclrWOtSkjb4Lv6UYGMo=
+)
+
+[1-September-2020 12:40:28 UTC] Check Transaction:  OrderID: 29 | Array
+(
+    [RESULT] => OK
+    [RESULT_CODE] => 000
+    [3DSECURE] => AUTHENTICATED
+    [RRN] => 024512283120
+    [APPROVAL_CODE] => 698869
+    [CARD_NUMBER] => 5***********4405
+)
+
+[1-September-2020 12:40:29 UTC] DMS Confirm:  OrderID: 29 | Array
+(
+    [RESULT] => OK
+    [RESULT_CODE] => 000
+    [RRN] => 024512283120
+    [APPROVAL_CODE] => 698869
+    [CARD_NUMBER] => 5***********4405
+)
+
+[1-September-2020 12:49:25 UTC] Confirm Create Transaction:  OrderID: 30 | Array
+(
+    [TRANSACTION_ID] => VUDwjHfh0XSyzB7gh2twnDiqAe0=
+)
+
+[1-September-2020 12:49:39 UTC] Confirm Create Transaction:  OrderID: 31 | Array
+(
+    [TRANSACTION_ID] => O2FC1ZxYOXbWSV61GODBAl1wvog=
+)
+
+[1-September-2020 13:03:05 UTC] Confirm Create Transaction:  OrderID: 32 | Array
+(
+    [TRANSACTION_ID] => RvFLZsPtE6s4461c55aOcPMfXBQ=
+)
+
+[1-September-2020 14:11:23 UTC] Confirm Create Transaction:  OrderID: 33 | Array
+(
+    [TRANSACTION_ID] => kagHKXu1wOLCYdONhSoXikO5RKU=
+)
+
+[1-September-2020 14:12:09 UTC] Check Transaction:  OrderID: 33 | Array
+(
+    [RESULT] => OK
+    [RESULT_CODE] => 000
+    [3DSECURE] => AUTHENTICATED
+    [RRN] => 024514402594
+    [APPROVAL_CODE] => 973251
+    [CARD_NUMBER] => 5***********7485
+)
+
+[1-September-2020 14:12:10 UTC] DMS Confirm:  OrderID: 33 | Array
+(
+    [RESULT] => OK
+    [RESULT_CODE] => 000
+    [RRN] => 024514402594
+    [APPROVAL_CODE] => 973251
+    [CARD_NUMBER] => 5***********7485
+)
+
+[3-September-2020 10:09:09 UTC] Confirm Create Transaction:  OrderID: 34 | Array
+(
+    [TRANSACTION_ID] => 3U2GxnUay7dhEDXESo7lRHnWj0A=
+)
+
+[4-September-2020 07:49:59 UTC] Confirm Create Transaction:  OrderID: 35 | Array
+(
+    [TRANSACTION_ID] => KBXcChOPVVL5fVK0DC3LXXNPIMI=
+)
+
+[4-September-2020 07:50:59 UTC] Confirm Create Transaction:  OrderID: 36 | Array
+(
+    [TRANSACTION_ID] => i2v6Q2PDyRASfp6E1uuQcrW0OKk=
+)
+
+[4-September-2020 07:58:13 UTC] Confirm Create Transaction:  OrderID: 37 | Array
+(
+    [TRANSACTION_ID] => qgg96DPA46bS4xmlPmsjFW4WrxA=
+)
+
+[4-September-2020 10:14:18 UTC] Confirm Create Transaction:  OrderID: 38 | Array
+(
+    [TRANSACTION_ID] => Bz8r6bCgAzOPQo9ZSzcscHzZj3k=
+)
+
+[9-September-2020 05:19:04 UTC] Confirm Create Transaction:  OrderID: 39 | Array
+(
+    [TRANSACTION_ID] => 1b6HQfycT81JnWsvG40O8SEsmq0=
+)
+
+[9-September-2020 05:23:59 UTC] Confirm Create Transaction:  OrderID: 40 | Array
+(
+    [TRANSACTION_ID] => r9FPk8HUKT37j62hNnWET421Gts=
+)
+
+[9-September-2020 05:36:52 UTC] Confirm Create Transaction:  OrderID: 41 | Array
+(
+    [TRANSACTION_ID] => PAFomkj6M2UyBc97kA8vaQAuqS8=
+)
+
+[9-September-2020 05:47:33 UTC] Confirm Create Transaction:  OrderID: 42 | Array
+(
+    [TRANSACTION_ID] => hJQbcl2WYNyEDVTyzQpY6UiVnLM=
+)
+
+[9-September-2020 05:49:12 UTC] Confirm Create Transaction:  OrderID: 43 | Array
+(
+    [TRANSACTION_ID] => h4KiYsPjXSYS2qn3LI0TzDJFaVc=
+)
+
+[9-September-2020 05:51:47 UTC] Confirm Create Transaction:  OrderID: 44 | Array
+(
+    [TRANSACTION_ID] => IyXDM2M2p5uS1aVAFRMCrs2LMi0=
+)
+
+[9-September-2020 05:52:36 UTC] Confirm Create Transaction:  OrderID: 45 | Array
+(
+    [TRANSACTION_ID] => 71suSYKVMmoXKFn2StBg5vE1Q2U=
+)
+
+[9-September-2020 05:54:59 UTC] Confirm Create Transaction:  OrderID: 46 | Array
+(
+    [TRANSACTION_ID] => kVPl7f9zNdPkB3Zcn2CCs8MlOkQ=
+)
+
+[9-September-2020 06:01:20 UTC] Confirm Create Transaction:  OrderID: 47 | Array
+(
+    [TRANSACTION_ID] => akPbrXhl3Pt1elDknVP8UWTlx8A=
+)
+
+[9-September-2020 06:01:56 UTC] Confirm Create Transaction:  OrderID: 48 | Array
+(
+    [TRANSACTION_ID] => j1sCQuasILSYvVbmGfGfibLbkDw=
+)
+
+[9-September-2020 06:03:31 UTC] Confirm Create Transaction:  OrderID: 49 | Array
+(
+    [TRANSACTION_ID] => j56hpyyWN6S7Tkusc9gXkHAS0Wk=
+)
+
+[9-September-2020 06:04:29 UTC] Confirm Create Transaction:  OrderID: 50 | Array
+(
+    [TRANSACTION_ID] => PzQm5PWrWkHIwCvSvurZKYSRFPQ=
+)
+
+[9-September-2020 06:05:12 UTC] Confirm Create Transaction:  OrderID: 51 | Array
+(
+    [TRANSACTION_ID] => kDPlPwyUtuIOWl8I5s5P2ty5TtE=
+)
+
+[9-September-2020 06:05:53 UTC] Confirm Create Transaction:  OrderID: 52 | Array
+(
+    [TRANSACTION_ID] => NXIOhmXcptUQwoJyFp9FwH8oahc=
+)
+
+[9-September-2020 06:07:23 UTC] Confirm Create Transaction:  OrderID: 53 | Array
+(
+    [TRANSACTION_ID] => Oe02pNpKLcSfPeLE8LTXEsMF7GA=
+)
+
+[9-September-2020 08:34:46 UTC] Confirm Create Transaction:  OrderID: 54 | Array
+(
+    [TRANSACTION_ID] => EKVfMCruZlFM3lnDOVwy5kCMURA=
+)
+
+[9-September-2020 08:35:00 UTC] Confirm Create Transaction:  OrderID: 55 | Array
+(
+    [TRANSACTION_ID] => wDW0FuLSq6vfk8UbULrLVVOOvVs=
+)
+
+[9-September-2020 08:52:22 UTC] Confirm Create Transaction:  OrderID: 56 | Array
+(
+    [TRANSACTION_ID] => MQ5vRV4BxgF0hRSemJPHWRafYz0=
+)
+
+[9-September-2020 08:52:53 UTC] Confirm Create Transaction:  OrderID: 57 | Array
+(
+    [TRANSACTION_ID] => T7hN1fzGtUkp1HWAEG37tlCFvDE=
+)
+
+[9-September-2020 08:53:12 UTC] Confirm Create Transaction:  OrderID: 58 | Array
+(
+    [TRANSACTION_ID] => 0lmPOTPmEk0uM1tJmfQzNoObqaE=
+)
+
+[9-September-2020 08:57:25 UTC] Confirm Create Transaction:  OrderID: 59 | Array
+(
+    [TRANSACTION_ID] => jRSTSieTLNv1Iw0l8gCqsfSzpH8=
+)
+
+[9-September-2020 08:58:38 UTC] Confirm Create Transaction:  OrderID: 60 | Array
+(
+    [TRANSACTION_ID] => yS1fbe7UX88VN4xkLxnlGT97Rdw=
+)
+
+[9-September-2020 09:03:52 UTC] Confirm Create Transaction:  OrderID: 61 | Array
+(
+    [TRANSACTION_ID] => X00yuebXNpZlWWok24AbiqSl1vU=
+)
+
+[9-September-2020 09:10:15 UTC] Confirm Create Transaction:  OrderID: 62 | Array
+(
+    [TRANSACTION_ID] => obSCdvXDZI4BlexSvfmm865ljN8=
+)
+
+[9-September-2020 09:10:44 UTC] Confirm Create Transaction:  OrderID: 63 | Array
+(
+    [TRANSACTION_ID] => kFdiJE8KD7jrXY3vWKII8jPSheA=
+)
+
+[10-September-2020 10:46:37 UTC] Confirm Create Transaction:  OrderID: 64 | Array
+(
+    [TRANSACTION_ID] => b8gms1UcXaLhX45D9bqWINhkKMU=
+)
+
+[10-September-2020 10:47:28 UTC] Confirm Create Transaction:  OrderID: 65 | Array
+(
+    [TRANSACTION_ID] => eMXQy2WAadsrQSaREW5sC48a0jw=
+)
+
+[10-September-2020 10:49:26 UTC] Confirm Create Transaction:  OrderID: 66 | Array
+(
+    [TRANSACTION_ID] => gy4olyetN45JCuN2Dtiylt0E6tM=
+)
+
+[10-September-2020 10:50:38 UTC] Check Transaction:  OrderID: 66 | Array
+(
+    [RESULT] => OK
+    [RESULT_CODE] => 000
+    [3DSECURE] => AUTHENTICATED
+    [RRN] => 025410150463
+    [APPROVAL_CODE] => 297825
+    [CARD_NUMBER] => 5***********7485
+)
+
+[10-September-2020 10:50:39 UTC] DMS Confirm:  OrderID: 66 | Array
+(
+    [RESULT] => OK
+    [RESULT_CODE] => 000
+    [RRN] => 025410150463
+    [APPROVAL_CODE] => 297825
+    [CARD_NUMBER] => 5***********7485
+)
+
+[10-September-2020 10:56:13 UTC] Confirm Create Transaction:  OrderID: 67 | Array
+(
+    [TRANSACTION_ID] => CkBtf8z0qon52FDKQtjN9PiY5CQ=
+)
+
+[10-September-2020 10:56:14 UTC] Confirm Create Transaction:  OrderID: 68 | Array
+(
+    [TRANSACTION_ID] => h7dJvMqH35aRuppI7WMs7PCuhbM=
+)
+
+[10-September-2020 10:57:11 UTC] Check Transaction:  OrderID: 68 | Array
+(
+    [RESULT] => OK
+    [RESULT_CODE] => 000
+    [3DSECURE] => AUTHENTICATED
+    [RRN] => 025410158769
+    [APPROVAL_CODE] => 128991
+    [CARD_NUMBER] => 5***********7485
+)
+
+[10-September-2020 10:57:12 UTC] DMS Confirm:  OrderID: 68 | Array
+(
+    [RESULT] => OK
+    [RESULT_CODE] => 000
+    [RRN] => 025410158769
+    [APPROVAL_CODE] => 128991
+    [CARD_NUMBER] => 5***********7485
+)
+
+[10-September-2020 12:07:16 UTC] Confirm Create Transaction:  OrderID: 69 | Array
+(
+    [TRANSACTION_ID] => LNPSHAugJgZ2VfYxR3hjYooXoAU=
+)
+
+[10-September-2020 12:18:28 UTC] Confirm Create Transaction:  OrderID: 70 | Array
+(
+    [TRANSACTION_ID] => Z1s6SQJPSStBSfTff34LiKyufaE=
+)
+
+[10-September-2020 14:38:36 UTC] Confirm Create Transaction:  OrderID: 71 | Array
+(
+    [TRANSACTION_ID] => Of530l4wxwvZA1121XMGYRQSkSo=
+)
+
+[10-September-2020 14:53:46 UTC] Confirm Create Transaction:  OrderID: 72 | Array
+(
+    [TRANSACTION_ID] => 5tr1hqK5oZEmUlMkx9hvdfcmJHk=
+)
+
+[10-September-2020 14:55:06 UTC] Confirm Create Transaction:  OrderID: 73 | Array
+(
+    [TRANSACTION_ID] => wlgEHjFNzFoUT2og4jfzBxlToFk=
+)
+
+[10-September-2020 14:55:14 UTC] Confirm Create Transaction:  OrderID: 74 | Array
+(
+    [TRANSACTION_ID] => UlJKeKPe7MKE63Pf3GeYGaJJlVw=
+)
+
+[10-September-2020 14:55:25 UTC] Confirm Create Transaction:  OrderID: 75 | Array
+(
+    [TRANSACTION_ID] => kCCyysmeuPEouRRex3dDrAQ1uQc=
+)
+
+[11-September-2020 12:39:45 UTC] Confirm Create Transaction:  OrderID: 76 | Array
+(
+    [TRANSACTION_ID] => k0HPSMwoxmha8khOUO2Ivj5U4mo=
+)
+
+[11-September-2020 12:40:04 UTC] Confirm Create Transaction:  OrderID: 77 | Array
+(
+    [TRANSACTION_ID] => 4BLXrQoPEzsIlJcV5iYvrr3dP1c=
+)
+
+[11-September-2020 12:44:05 UTC] Confirm Create Transaction:  OrderID: 78 | Array
+(
+    [TRANSACTION_ID] => fQZPAilPxQgVypwR9UN2KNbm3pQ=
+)
+

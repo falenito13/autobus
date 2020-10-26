@@ -1,0 +1,1033 @@
+[17-August-2020 08:41:46 UTC] Create Transaction:  OrderID: 6 | Array
+(
+    [command] => a
+    [msg_type] => DMS
+    [amount] => 10
+    [currency] => 981
+    [client_ip_addr] => 188.93.90.240
+    [description] => 6-34
+    [language] => ka
+)
+
+[17-August-2020 08:41:50 UTC] Create Transaction:  OrderID: 7 | Array
+(
+    [command] => a
+    [msg_type] => DMS
+    [amount] => 10
+    [currency] => 981
+    [client_ip_addr] => 188.93.90.240
+    [description] => 7-35
+    [language] => ka
+)
+
+[18-August-2020 10:36:38 UTC] Create Transaction:  OrderID: 8 | Array
+(
+    [command] => a
+    [msg_type] => DMS
+    [amount] => 10
+    [currency] => 981
+    [client_ip_addr] => 188.93.90.240
+    [description] => 8-36
+    [language] => ka
+)
+
+[19-August-2020 09:46:14 UTC] Create Transaction:  OrderID: 9 | Array
+(
+    [command] => a
+    [msg_type] => DMS
+    [amount] => 10
+    [currency] => 981
+    [client_ip_addr] => 188.93.90.240
+    [description] => 9-10
+    [language] => ka
+)
+
+[25-August-2020 11:13:35 UTC] Create Transaction:  OrderID: 10 | Array
+(
+    [command] => a
+    [msg_type] => DMS
+    [amount] => 10
+    [currency] => 981
+    [client_ip_addr] => 188.93.90.240
+    [description] => 10-36
+    [language] => ka
+)
+
+[31-August-2020 07:30:01 UTC] Create Transaction:  OrderID: 11 | Array
+(
+    [command] => a
+    [msg_type] => DMS
+    [amount] => 10
+    [currency] => 981
+    [client_ip_addr] => 188.93.90.240
+    [description] => 11-37
+    [language] => ka
+)
+
+[1-September-2020 10:39:37 UTC] Create Transaction:  OrderID: 12 | Array
+(
+    [command] => a
+    [msg_type] => DMS
+    [amount] => 10
+    [currency] => 981
+    [client_ip_addr] => 188.93.90.240
+    [description] => 12-38
+    [language] => ka
+)
+
+[1-September-2020 10:54:20 UTC] Create Transaction:  OrderID: 13 | Array
+(
+    [command] => a
+    [msg_type] => DMS
+    [amount] => 10
+    [currency] => 981
+    [client_ip_addr] => 188.93.90.240
+    [description] => 13-39
+    [language] => ka
+)
+
+[1-September-2020 10:55:19 UTC] Create Transaction:  OrderID: 14 | Array
+(
+    [command] => a
+    [msg_type] => DMS
+    [amount] => 10
+    [currency] => 981
+    [client_ip_addr] => 188.93.90.240
+    [description] => 14-40
+    [language] => ka
+)
+
+[1-September-2020 10:56:51 UTC] Create Transaction:  OrderID: 15 | Array
+(
+    [command] => a
+    [msg_type] => DMS
+    [amount] => 10
+    [currency] => 981
+    [client_ip_addr] => 188.93.90.240
+    [description] => 15-41
+    [language] => ka
+)
+
+[1-September-2020 10:57:04 UTC] Create Transaction:  OrderID: 16 | Array
+(
+    [command] => a
+    [msg_type] => DMS
+    [amount] => 10
+    [currency] => 981
+    [client_ip_addr] => 188.93.90.240
+    [description] => 16-42
+    [language] => ka
+)
+
+[1-September-2020 10:58:57 UTC] Create Transaction:  OrderID: 17 | Array
+(
+    [command] => a
+    [msg_type] => DMS
+    [amount] => 10
+    [currency] => 981
+    [client_ip_addr] => 188.93.90.240
+    [description] => 17-43
+    [language] => ka
+)
+
+[1-September-2020 11:06:57 UTC] Check Transaction:  OrderID: 17 | Array
+(
+    [command] => c
+    [trans_id] => ldzLePIAauS4TTDd9tLTBzVQc48%3D
+    [client_ip_addr] => 188.93.90.240
+)
+
+[1-September-2020 11:06:57 UTC] DMS Confirm:  OrderID: 17 | Array
+(
+    [command] => t
+    [msg_type] => DMS
+    [trans_id] => ldzLePIAauS4TTDd9tLTBzVQc48%3D
+    [amount] => 10
+    [currency] => 981
+    [client_ip_addr] => 188.93.90.240
+    [description] => 17-43
+    [language] => ka
+)
+
+[1-September-2020 11:32:52 UTC] Create Transaction:  OrderID: 18 | Array
+(
+    [command] => a
+    [msg_type] => DMS
+    [amount] => 10
+    [currency] => 981
+    [client_ip_addr] => 188.93.90.240
+    [description] => 18-44
+    [language] => ka
+)
+
+[1-September-2020 11:33:48 UTC] Check Transaction:  OrderID: 18 | Array
+(
+    [command] => c
+    [trans_id] => iNZLUg0BtxPnwMyXFSGI4iAoaYo%3D
+    [client_ip_addr] => 188.93.90.240
+)
+
+[1-September-2020 11:33:49 UTC] DMS Confirm:  OrderID: 18 | Array
+(
+    [command] => t
+    [msg_type] => DMS
+    [trans_id] => iNZLUg0BtxPnwMyXFSGI4iAoaYo%3D
+    [amount] => 10
+    [currency] => 981
+    [client_ip_addr] => 188.93.90.240
+    [description] => 18-44
+    [language] => ka
+)
+
+[1-September-2020 11:37:26 UTC] Create Transaction:  OrderID: 19 | Array
+(
+    [command] => a
+    [msg_type] => DMS
+    [amount] => 10
+    [currency] => 981
+    [client_ip_addr] => 188.93.90.240
+    [description] => 19-45
+    [language] => ka
+)
+
+[1-September-2020 11:37:46 UTC] Check Transaction:  OrderID: 19 | Array
+(
+    [command] => c
+    [trans_id] => mMZn0PbRYAL9ksZ4gUAeUo06KRY%3D
+    [client_ip_addr] => 188.93.90.240
+)
+
+[1-September-2020 11:37:46 UTC] DMS Confirm:  OrderID: 19 | Array
+(
+    [command] => t
+    [msg_type] => DMS
+    [trans_id] => mMZn0PbRYAL9ksZ4gUAeUo06KRY%3D
+    [amount] => 10
+    [currency] => 981
+    [client_ip_addr] => 188.93.90.240
+    [description] => 19-45
+    [language] => ka
+)
+
+[1-September-2020 11:44:16 UTC] Create Transaction:  OrderID: 20 | Array
+(
+    [command] => a
+    [msg_type] => DMS
+    [amount] => 10
+    [currency] => 981
+    [client_ip_addr] => 188.93.90.240
+    [description] => 20-46
+    [language] => ka
+)
+
+[1-September-2020 11:44:35 UTC] Check Transaction:  OrderID: 20 | Array
+(
+    [command] => c
+    [trans_id] => 5s5hZaB51gl1gGOT3TPe5w9HbqQ%3D
+    [client_ip_addr] => 188.93.90.240
+)
+
+[1-September-2020 11:44:35 UTC] DMS Confirm:  OrderID: 20 | Array
+(
+    [command] => t
+    [msg_type] => DMS
+    [trans_id] => 5s5hZaB51gl1gGOT3TPe5w9HbqQ%3D
+    [amount] => 10
+    [currency] => 981
+    [client_ip_addr] => 188.93.90.240
+    [description] => 20-46
+    [language] => ka
+)
+
+[1-September-2020 11:52:00 UTC] Create Transaction:  OrderID: 21 | Array
+(
+    [command] => a
+    [msg_type] => DMS
+    [amount] => 10
+    [currency] => 981
+    [client_ip_addr] => 188.93.90.240
+    [description] => 21-47
+    [language] => ka
+)
+
+[1-September-2020 11:52:19 UTC] Check Transaction:  OrderID: 21 | Array
+(
+    [command] => c
+    [trans_id] => 9xXrfI6eWUDGlzsNFwwajgTyhn4%3D
+    [client_ip_addr] => 188.93.90.240
+)
+
+[1-September-2020 11:52:19 UTC] DMS Confirm:  OrderID: 21 | Array
+(
+    [command] => t
+    [msg_type] => DMS
+    [trans_id] => 9xXrfI6eWUDGlzsNFwwajgTyhn4%3D
+    [amount] => 10
+    [currency] => 981
+    [client_ip_addr] => 188.93.90.240
+    [description] => 21-47
+    [language] => ka
+)
+
+[1-September-2020 11:55:46 UTC] Create Transaction:  OrderID: 22 | Array
+(
+    [command] => a
+    [msg_type] => DMS
+    [amount] => 10
+    [currency] => 981
+    [client_ip_addr] => 188.93.90.240
+    [description] => 22-48
+    [language] => ka
+)
+
+[1-September-2020 11:58:24 UTC] Create Transaction:  OrderID: 23 | Array
+(
+    [command] => a
+    [msg_type] => DMS
+    [amount] => 10
+    [currency] => 981
+    [client_ip_addr] => 188.93.90.240
+    [description] => 23-49
+    [language] => ka
+)
+
+[1-September-2020 11:58:40 UTC] Check Transaction:  OrderID: 23 | Array
+(
+    [command] => c
+    [trans_id] => vnS292SSi6jmOUroMej21f5Qs1o%3D
+    [client_ip_addr] => 188.93.90.240
+)
+
+[1-September-2020 11:58:40 UTC] DMS Confirm:  OrderID: 23 | Array
+(
+    [command] => t
+    [msg_type] => DMS
+    [trans_id] => vnS292SSi6jmOUroMej21f5Qs1o%3D
+    [amount] => 10
+    [currency] => 981
+    [client_ip_addr] => 188.93.90.240
+    [description] => 23-49
+    [language] => ka
+)
+
+[1-September-2020 12:05:36 UTC] Create Transaction:  OrderID: 24 | Array
+(
+    [command] => a
+    [msg_type] => DMS
+    [amount] => 10
+    [currency] => 981
+    [client_ip_addr] => 188.93.90.240
+    [description] => 24-50
+    [language] => ka
+)
+
+[1-September-2020 12:06:45 UTC] Check Transaction:  OrderID: 24 | Array
+(
+    [command] => c
+    [trans_id] => evHHwkxCMcSVOgQ4ALOVSBKc8rU%3D
+    [client_ip_addr] => 188.93.90.240
+)
+
+[1-September-2020 12:07:58 UTC] Create Transaction:  OrderID: 25 | Array
+(
+    [command] => a
+    [msg_type] => DMS
+    [amount] => 10
+    [currency] => 981
+    [client_ip_addr] => 188.93.90.240
+    [description] => 25-51
+    [language] => ka
+)
+
+[1-September-2020 12:08:44 UTC] Check Transaction:  OrderID: 25 | Array
+(
+    [command] => c
+    [trans_id] => ZDlPSv4PSEHDTAvSb6cildE4KXw%3D
+    [client_ip_addr] => 188.93.90.240
+)
+
+[1-September-2020 12:15:03 UTC] Create Transaction:  OrderID: 26 | Array
+(
+    [command] => a
+    [msg_type] => DMS
+    [amount] => 10
+    [currency] => 981
+    [client_ip_addr] => 188.93.90.240
+    [description] => 26-52
+    [language] => ka
+)
+
+[1-September-2020 12:15:04 UTC] Create Transaction:  OrderID: 27 | Array
+(
+    [command] => a
+    [msg_type] => DMS
+    [amount] => 10
+    [currency] => 981
+    [client_ip_addr] => 188.93.90.240
+    [description] => 27-53
+    [language] => ka
+)
+
+[1-September-2020 12:16:10 UTC] Check Transaction:  OrderID: 27 | Array
+(
+    [command] => c
+    [trans_id] => n7MaxZcMtmtVIZZXdbcjJ9IPuhI%3D
+    [client_ip_addr] => 188.93.90.240
+)
+
+[1-September-2020 12:33:13 UTC] Create Transaction:  OrderID: 28 | Array
+(
+    [command] => a
+    [msg_type] => DMS
+    [amount] => 10
+    [currency] => 981
+    [client_ip_addr] => 188.93.90.240
+    [description] => 28-54
+    [language] => ka
+)
+
+[1-September-2020 12:34:23 UTC] Check Transaction:  OrderID: 28 | Array
+(
+    [command] => c
+    [trans_id] => 2Pcd15y26gxeiPayhkQkPvPojpI%3D
+    [client_ip_addr] => 188.93.90.240
+)
+
+[1-September-2020 12:34:23 UTC] DMS Confirm:  OrderID: 28 | Array
+(
+    [command] => t
+    [msg_type] => DMS
+    [trans_id] => 2Pcd15y26gxeiPayhkQkPvPojpI%3D
+    [amount] => 10
+    [currency] => 981
+    [client_ip_addr] => 188.93.90.240
+    [description] => 28-54
+    [language] => ka
+)
+
+[1-September-2020 12:39:34 UTC] Create Transaction:  OrderID: 29 | Array
+(
+    [command] => a
+    [msg_type] => DMS
+    [amount] => 10
+    [currency] => 981
+    [client_ip_addr] => 188.93.90.240
+    [description] => 29-55
+    [language] => ka
+)
+
+[1-September-2020 12:40:28 UTC] Check Transaction:  OrderID: 29 | Array
+(
+    [command] => c
+    [trans_id] => 9J0k4seqclrWOtSkjb4Lv6UYGMo%3D
+    [client_ip_addr] => 188.93.90.240
+)
+
+[1-September-2020 12:40:29 UTC] DMS Confirm:  OrderID: 29 | Array
+(
+    [command] => t
+    [msg_type] => DMS
+    [trans_id] => 9J0k4seqclrWOtSkjb4Lv6UYGMo%3D
+    [amount] => 10
+    [currency] => 981
+    [client_ip_addr] => 188.93.90.240
+    [description] => 29-55
+    [language] => ka
+)
+
+[1-September-2020 12:49:25 UTC] Create Transaction:  OrderID: 30 | Array
+(
+    [command] => a
+    [msg_type] => DMS
+    [amount] => 10
+    [currency] => 981
+    [client_ip_addr] => 188.93.90.240
+    [description] => 30-56
+    [language] => ka
+)
+
+[1-September-2020 12:49:39 UTC] Create Transaction:  OrderID: 31 | Array
+(
+    [command] => a
+    [msg_type] => DMS
+    [amount] => 10
+    [currency] => 981
+    [client_ip_addr] => 188.93.90.240
+    [description] => 31-57
+    [language] => ka
+)
+
+[1-September-2020 13:03:05 UTC] Create Transaction:  OrderID: 32 | Array
+(
+    [command] => a
+    [msg_type] => DMS
+    [amount] => 10
+    [currency] => 981
+    [client_ip_addr] => 188.93.90.240
+    [description] => 32-58
+    [language] => ka
+)
+
+[1-September-2020 14:11:23 UTC] Create Transaction:  OrderID: 33 | Array
+(
+    [command] => a
+    [msg_type] => DMS
+    [amount] => 10
+    [currency] => 981
+    [client_ip_addr] => 188.93.90.240
+    [description] => 33-59
+    [language] => ka
+)
+
+[1-September-2020 14:12:09 UTC] Check Transaction:  OrderID: 33 | Array
+(
+    [command] => c
+    [trans_id] => kagHKXu1wOLCYdONhSoXikO5RKU%3D
+    [client_ip_addr] => 188.93.90.240
+)
+
+[1-September-2020 14:12:09 UTC] DMS Confirm:  OrderID: 33 | Array
+(
+    [command] => t
+    [msg_type] => DMS
+    [trans_id] => kagHKXu1wOLCYdONhSoXikO5RKU%3D
+    [amount] => 10
+    [currency] => 981
+    [client_ip_addr] => 188.93.90.240
+    [description] => 33-59
+    [language] => ka
+)
+
+[3-September-2020 10:09:09 UTC] Create Transaction:  OrderID: 34 | Array
+(
+    [command] => a
+    [msg_type] => DMS
+    [amount] => 23400
+    [currency] => 981
+    [client_ip_addr] => 188.93.90.240
+    [description] => 34-60
+    [language] => ka
+)
+
+[4-September-2020 07:49:58 UTC] Create Transaction:  OrderID: 35 | Array
+(
+    [command] => a
+    [msg_type] => DMS
+    [amount] => 39900
+    [currency] => 981
+    [client_ip_addr] => 188.93.90.240
+    [description] => 35-1
+    [language] => ka
+)
+
+[4-September-2020 07:50:59 UTC] Create Transaction:  OrderID: 36 | Array
+(
+    [command] => a
+    [msg_type] => DMS
+    [amount] => 30000
+    [currency] => 981
+    [client_ip_addr] => 188.93.90.240
+    [description] => 36-2
+    [language] => ka
+)
+
+[4-September-2020 07:58:13 UTC] Create Transaction:  OrderID: 37 | Array
+(
+    [command] => a
+    [msg_type] => DMS
+    [amount] => 50000
+    [currency] => 981
+    [client_ip_addr] => 188.93.90.240
+    [description] => 37-3
+    [language] => ka
+)
+
+[4-September-2020 10:14:18 UTC] Create Transaction:  OrderID: 38 | Array
+(
+    [command] => a
+    [msg_type] => DMS
+    [amount] => 1300
+    [currency] => 981
+    [client_ip_addr] => 188.93.90.240
+    [description] => 38-1
+    [language] => ka
+)
+
+[9-September-2020 05:19:04 UTC] Create Transaction:  OrderID: 39 | Array
+(
+    [command] => a
+    [msg_type] => DMS
+    [amount] => 3400
+    [currency] => 981
+    [client_ip_addr] => 188.93.90.240
+    [description] => 39-2
+    [language] => ka
+)
+
+[9-September-2020 05:23:59 UTC] Create Transaction:  OrderID: 40 | Array
+(
+    [command] => a
+    [msg_type] => DMS
+    [amount] => 3400
+    [currency] => 981
+    [client_ip_addr] => 188.93.90.240
+    [description] => 40-3
+    [language] => ka
+)
+
+[9-September-2020 05:36:52 UTC] Create Transaction:  OrderID: 41 | Array
+(
+    [command] => a
+    [msg_type] => DMS
+    [amount] => 3400
+    [currency] => 981
+    [client_ip_addr] => 188.93.90.240
+    [description] => 41-4
+    [language] => ka
+)
+
+[9-September-2020 05:47:33 UTC] Create Transaction:  OrderID: 42 | Array
+(
+    [command] => a
+    [msg_type] => DMS
+    [amount] => 3400
+    [currency] => 981
+    [client_ip_addr] => 188.93.90.240
+    [description] => 42-5
+    [language] => ka
+)
+
+[9-September-2020 05:49:12 UTC] Create Transaction:  OrderID: 43 | Array
+(
+    [command] => a
+    [msg_type] => DMS
+    [amount] => 34200
+    [currency] => 981
+    [client_ip_addr] => 188.93.90.240
+    [description] => 43-6
+    [language] => ka
+)
+
+[9-September-2020 05:51:46 UTC] Create Transaction:  OrderID: 44 | Array
+(
+    [command] => a
+    [msg_type] => DMS
+    [amount] => 3400
+    [currency] => 981
+    [client_ip_addr] => 188.93.90.240
+    [description] => 44-7
+    [language] => ka
+)
+
+[9-September-2020 05:52:36 UTC] Create Transaction:  OrderID: 45 | Array
+(
+    [command] => a
+    [msg_type] => DMS
+    [amount] => 3400
+    [currency] => 981
+    [client_ip_addr] => 188.93.90.240
+    [description] => 45-8
+    [language] => ka
+)
+
+[9-September-2020 05:54:59 UTC] Create Transaction:  OrderID: 46 | Array
+(
+    [command] => a
+    [msg_type] => DMS
+    [amount] => 3400
+    [currency] => 981
+    [client_ip_addr] => 188.93.90.240
+    [description] => 46-9
+    [language] => ka
+)
+
+[9-September-2020 06:01:20 UTC] Create Transaction:  OrderID: 47 | Array
+(
+    [command] => a
+    [msg_type] => DMS
+    [amount] => 3400
+    [currency] => 981
+    [client_ip_addr] => 188.93.90.240
+    [description] => 47-10
+    [language] => ka
+)
+
+[9-September-2020 06:01:56 UTC] Create Transaction:  OrderID: 48 | Array
+(
+    [command] => a
+    [msg_type] => DMS
+    [amount] => 3400
+    [currency] => 981
+    [client_ip_addr] => 188.93.90.240
+    [description] => 48-11
+    [language] => ka
+)
+
+[9-September-2020 06:03:31 UTC] Create Transaction:  OrderID: 49 | Array
+(
+    [command] => a
+    [msg_type] => DMS
+    [amount] => 3400
+    [currency] => 981
+    [client_ip_addr] => 188.93.90.240
+    [description] => 49-12
+    [language] => ka
+)
+
+[9-September-2020 06:04:29 UTC] Create Transaction:  OrderID: 50 | Array
+(
+    [command] => a
+    [msg_type] => DMS
+    [amount] => 3400
+    [currency] => 981
+    [client_ip_addr] => 188.93.90.240
+    [description] => 50-13
+    [language] => ka
+)
+
+[9-September-2020 06:05:12 UTC] Create Transaction:  OrderID: 51 | Array
+(
+    [command] => a
+    [msg_type] => DMS
+    [amount] => 3400
+    [currency] => 981
+    [client_ip_addr] => 188.93.90.240
+    [description] => 51-14
+    [language] => ka
+)
+
+[9-September-2020 06:05:53 UTC] Create Transaction:  OrderID: 52 | Array
+(
+    [command] => a
+    [msg_type] => DMS
+    [amount] => 3400
+    [currency] => 981
+    [client_ip_addr] => 188.93.90.240
+    [description] => 52-15
+    [language] => ka
+)
+
+[9-September-2020 06:07:23 UTC] Create Transaction:  OrderID: 53 | Array
+(
+    [command] => a
+    [msg_type] => DMS
+    [amount] => 3400
+    [currency] => 981
+    [client_ip_addr] => 188.93.90.240
+    [description] => 53-16
+    [language] => ka
+)
+
+[9-September-2020 08:34:46 UTC] Create Transaction:  OrderID: 54 | Array
+(
+    [command] => a
+    [msg_type] => DMS
+    [amount] => 1300
+    [currency] => 981
+    [client_ip_addr] => 188.93.90.240
+    [description] => 54-17
+    [language] => ka
+)
+
+[9-September-2020 08:35:00 UTC] Create Transaction:  OrderID: 55 | Array
+(
+    [command] => a
+    [msg_type] => DMS
+    [amount] => 1300
+    [currency] => 981
+    [client_ip_addr] => 188.93.90.240
+    [description] => 55-18
+    [language] => ka
+)
+
+[9-September-2020 08:52:22 UTC] Create Transaction:  OrderID: 56 | Array
+(
+    [command] => a
+    [msg_type] => DMS
+    [amount] => 1300
+    [currency] => 981
+    [client_ip_addr] => 188.93.90.240
+    [description] => 56-19
+    [language] => ka
+)
+
+[9-September-2020 08:52:53 UTC] Create Transaction:  OrderID: 57 | Array
+(
+    [command] => a
+    [msg_type] => DMS
+    [amount] => 1300
+    [currency] => 981
+    [client_ip_addr] => 188.93.90.240
+    [description] => 57-20
+    [language] => ka
+)
+
+[9-September-2020 08:53:11 UTC] Create Transaction:  OrderID: 58 | Array
+(
+    [command] => a
+    [msg_type] => DMS
+    [amount] => 1300
+    [currency] => 981
+    [client_ip_addr] => 188.93.90.240
+    [description] => 58-21
+    [language] => ka
+)
+
+[9-September-2020 08:57:25 UTC] Create Transaction:  OrderID: 59 | Array
+(
+    [command] => a
+    [msg_type] => DMS
+    [amount] => 1300
+    [currency] => 981
+    [client_ip_addr] => 188.93.90.240
+    [description] => 59-22
+    [language] => ka
+)
+
+[9-September-2020 08:58:38 UTC] Create Transaction:  OrderID: 60 | Array
+(
+    [command] => a
+    [msg_type] => DMS
+    [amount] => 1300
+    [currency] => 981
+    [client_ip_addr] => 188.93.90.240
+    [description] => 60-23
+    [language] => ka
+)
+
+[9-September-2020 09:03:52 UTC] Create Transaction:  OrderID: 61 | Array
+(
+    [command] => a
+    [msg_type] => DMS
+    [amount] => 4100
+    [currency] => 981
+    [client_ip_addr] => 188.93.90.240
+    [description] => 61-24
+    [language] => ka
+)
+
+[9-September-2020 09:10:15 UTC] Create Transaction:  OrderID: 62 | Array
+(
+    [command] => a
+    [msg_type] => DMS
+    [amount] => 1300
+    [currency] => 981
+    [client_ip_addr] => 188.93.90.240
+    [description] => 62-25
+    [language] => ka
+)
+
+[9-September-2020 09:10:44 UTC] Create Transaction:  OrderID: 63 | Array
+(
+    [command] => a
+    [msg_type] => DMS
+    [amount] => 1300
+    [currency] => 981
+    [client_ip_addr] => 188.93.90.240
+    [description] => 63-26
+    [language] => ka
+)
+
+[10-September-2020 10:46:37 UTC] Create Transaction:  OrderID: 64 | Array
+(
+    [command] => a
+    [msg_type] => DMS
+    [amount] => 3400
+    [currency] => 981
+    [client_ip_addr] => 188.93.90.240
+    [description] => 64-27
+    [language] => ka
+)
+
+[10-September-2020 10:47:28 UTC] Create Transaction:  OrderID: 65 | Array
+(
+    [command] => a
+    [msg_type] => DMS
+    [amount] => 3400
+    [currency] => 981
+    [client_ip_addr] => 188.93.90.240
+    [description] => 65-28
+    [language] => ka
+)
+
+[10-September-2020 10:49:26 UTC] Create Transaction:  OrderID: 66 | Array
+(
+    [command] => a
+    [msg_type] => DMS
+    [amount] => 100
+    [currency] => 981
+    [client_ip_addr] => 188.93.90.240
+    [description] => 66-29
+    [language] => ka
+)
+
+[10-September-2020 10:50:38 UTC] Check Transaction:  OrderID: 66 | Array
+(
+    [command] => c
+    [trans_id] => gy4olyetN45JCuN2Dtiylt0E6tM%3D
+    [client_ip_addr] => 188.93.90.240
+)
+
+[10-September-2020 10:50:38 UTC] DMS Confirm:  OrderID: 66 | Array
+(
+    [command] => t
+    [msg_type] => DMS
+    [trans_id] => gy4olyetN45JCuN2Dtiylt0E6tM%3D
+    [amount] => 100
+    [currency] => 981
+    [client_ip_addr] => 188.93.90.240
+    [description] => 66-29
+    [language] => ka
+)
+
+[10-September-2020 10:56:13 UTC] Create Transaction:  OrderID: 67 | Array
+(
+    [command] => a
+    [msg_type] => DMS
+    [amount] => 100
+    [currency] => 981
+    [client_ip_addr] => 188.93.90.240
+    [description] => 67-30
+    [language] => ka
+)
+
+[10-September-2020 10:56:14 UTC] Create Transaction:  OrderID: 68 | Array
+(
+    [command] => a
+    [msg_type] => DMS
+    [amount] => 100
+    [currency] => 981
+    [client_ip_addr] => 188.93.90.240
+    [description] => 68-31
+    [language] => ka
+)
+
+[10-September-2020 10:57:11 UTC] Check Transaction:  OrderID: 68 | Array
+(
+    [command] => c
+    [trans_id] => h7dJvMqH35aRuppI7WMs7PCuhbM%3D
+    [client_ip_addr] => 188.93.90.240
+)
+
+[10-September-2020 10:57:11 UTC] DMS Confirm:  OrderID: 68 | Array
+(
+    [command] => t
+    [msg_type] => DMS
+    [trans_id] => h7dJvMqH35aRuppI7WMs7PCuhbM%3D
+    [amount] => 100
+    [currency] => 981
+    [client_ip_addr] => 188.93.90.240
+    [description] => 68-31
+    [language] => ka
+)
+
+[10-September-2020 12:07:15 UTC] Create Transaction:  OrderID: 69 | Array
+(
+    [command] => a
+    [msg_type] => DMS
+    [amount] => 100
+    [currency] => 981
+    [client_ip_addr] => 188.93.90.240
+    [description] => 69-32
+    [language] => ka
+)
+
+[10-September-2020 12:18:28 UTC] Create Transaction:  OrderID: 70 | Array
+(
+    [command] => a
+    [msg_type] => DMS
+    [amount] => 100
+    [currency] => 981
+    [client_ip_addr] => 188.93.90.240
+    [description] => 70-33
+    [language] => ka
+)
+
+[10-September-2020 14:38:36 UTC] Create Transaction:  OrderID: 71 | Array
+(
+    [command] => a
+    [msg_type] => DMS
+    [amount] => 1300
+    [currency] => 981
+    [client_ip_addr] => 188.93.90.240
+    [description] => 71-34
+    [language] => ka
+)
+
+[10-September-2020 14:53:46 UTC] Create Transaction:  OrderID: 72 | Array
+(
+    [command] => a
+    [msg_type] => DMS
+    [amount] => 1100
+    [currency] => 981
+    [client_ip_addr] => 188.93.90.240
+    [description] => 72-35
+    [language] => ka
+)
+
+[10-September-2020 14:55:06 UTC] Create Transaction:  OrderID: 73 | Array
+(
+    [command] => a
+    [msg_type] => DMS
+    [amount] => 1300
+    [currency] => 981
+    [client_ip_addr] => 188.93.90.240
+    [description] => 73-36
+    [language] => ka
+)
+
+[10-September-2020 14:55:14 UTC] Create Transaction:  OrderID: 74 | Array
+(
+    [command] => a
+    [msg_type] => DMS
+    [amount] => 1100
+    [currency] => 981
+    [client_ip_addr] => 188.93.90.240
+    [description] => 74-37
+    [language] => ka
+)
+
+[10-September-2020 14:55:25 UTC] Create Transaction:  OrderID: 75 | Array
+(
+    [command] => a
+    [msg_type] => DMS
+    [amount] => 1300
+    [currency] => 981
+    [client_ip_addr] => 188.93.90.240
+    [description] => 75-38
+    [language] => ka
+)
+
+[11-September-2020 12:39:45 UTC] Create Transaction:  OrderID: 76 | Array
+(
+    [command] => a
+    [msg_type] => DMS
+    [amount] => 100
+    [currency] => 981
+    [client_ip_addr] => 188.93.90.240
+    [description] => 76-39
+    [language] => ka
+)
+
+[11-September-2020 12:40:03 UTC] Create Transaction:  OrderID: 77 | Array
+(
+    [command] => a
+    [msg_type] => DMS
+    [amount] => 100
+    [currency] => 981
+    [client_ip_addr] => 188.93.90.240
+    [description] => 77-40
+    [language] => ka
+)
+
+[11-September-2020 12:44:05 UTC] Create Transaction:  OrderID: 78 | Array
+(
+    [command] => a
+    [msg_type] => DMS
+    [amount] => 100
+    [currency] => 981
+    [client_ip_addr] => 188.93.90.240
+    [description] => 78-41
+    [language] => ka
+)
+
