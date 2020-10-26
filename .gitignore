@@ -4,3 +4,8 @@
 .env
 version.ini
 /storage
+.htaccess
+.styleci.yml
+COMMIT_EDITMSG
+_ide_helper.php
+phpunit.xml
