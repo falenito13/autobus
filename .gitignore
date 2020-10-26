@@ -11,3 +11,4 @@ _ide_helper.php
 phpunit.xml
 Test
 .env.example
+.idea
